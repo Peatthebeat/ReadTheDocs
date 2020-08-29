@@ -52,3 +52,4 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 master_doc = 'index'
+# https://stackoverflow.com/questions/56336234/build-fail-sphinx-error-contents-rst-not-found
